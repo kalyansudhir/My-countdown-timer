@@ -3,7 +3,7 @@
 // 🎯 CHANGE THIS DATE to your special day!
 // Format: Year, Month (0-11), Day, Hour, Minute
 // Month 0 = January, 11 = December
-const targetDate = new Date(2026, 11, 25, 0, 0); // My Birthday!
+const targetDate = new Date(2026, 11, 25); // My Birthday!
 
 function updateTimer() {
     const now = new Date();
