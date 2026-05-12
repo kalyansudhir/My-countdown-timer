@@ -1,6 +1,6 @@
 // ============================================
 // COUNTDOWN TIMER - Improved Version
-// =============================================
+// ============================================
 
 // 🎯 CHANGE THIS to your special day!
 // Format: new Date(Year, Month-1, Day, Hour, Minute)
