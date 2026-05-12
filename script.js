@@ -11,7 +11,7 @@
 // const targetDate = new Date(2026, 11, 25, 0, 0); // December 25, 2026
 // const targetDate = new Date(2027, 0, 1, 0, 0);   // January 1, 2027
 
-const targetDate = new Date(2026, 11, 25, 0, 0); // Christmas 2026!
+const targetDate = new Date(2026, 5, 17, 0, 0); // Christmas 2026!
 
 console.log("Target date:", targetDate);
 console.log("Current date:", new Date());
