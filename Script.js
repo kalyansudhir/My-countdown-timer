@@ -6,7 +6,7 @@
 const targetDate = new Date(2026, 5, 17, 0, 0); // My Birthday!
 
 function updateTimer() {
-    const now = new Date();
+    const now = new Date(2026, 5, 17, 0, 0);
     const difference = targetDate - now;
 
     // Calculate time left
